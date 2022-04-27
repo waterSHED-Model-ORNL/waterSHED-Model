@@ -1,0 +1,2 @@
+# waterSHED-Model
+An open-source and user-friendly hydropower design model that applies the principles of Standard Modular Hydropower to low-head, in-stream, run-of-river hydropower projects. This project was created in 2022 as part of Dr. Colin Sasthav dissertation research at Oak Ridge National Laboratory. This public repository can be downloaded for free but cannot be modified on the repository. For more information, please refer to the README file or the User Guide document. Comments and inquiries can be sent to watershed.model.ornl@gmail.com. 
