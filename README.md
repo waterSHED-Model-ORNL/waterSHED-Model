@@ -15,6 +15,16 @@ Steps for using the waterSHED model:
 3. Make sure the following list of packages are imported.
 4. Run the "waterSHED_main.py" file using the IDE or the command prompt window by navigating to the folder using "cd" commands and the following command "run waterSHED_main.py"
 
+Included files and folders:
+- waterSHED_main.py - the main script that must be run to create the user interface and run the model.
+- module_classes.py - contains the functions for the static module, simulation, and backend classes needed to run the model.
+- dynamic_modules.py - contains the classes for the dynamic module functionality that allows modules to be redesigned automatically during optimization.
+- aux_functions.py - contains the additional functionalities needed for the user interface and input process, such as USGS API readers, linear regression functions, and others.
+- waterSHED_styles.py - sets the colors and formatting for the user interface.
+- case_study_functions.py - contains the functions that create the dynamic modules used in the Deerfield, Housatonic, and Schuylkill case studies
+- Images - contains the picture files that are used in the graphical user interface
+- Workbooks - contains the waterSHED Workbook files that can be used to interact with the user interface and save input data. 
+
 Packages to be imported using the pip or conda install techniques (python -m pip install package_name)
 - tkinter
 - webbrowser
