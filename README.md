@@ -3,11 +3,9 @@ Welcome to the waterSHED Model, an open-source product of Dr. Colin Sasthav and 
 
 This repository allows user to download the code to the waterSHED model, which stands for the water allocation tool enabling rapid small hydropower environmental design. The model allows users to virtually design, simulate, and evaluate hydropower projects using the Standard Modular Hydropower framework from Oak Ridge National Laboratory. This code base creates a user interface using the Tkinter package in Python that facilitates the input, simulation, and visualization processes.
 
-Please read the waterSHED User Guide before using the code, which can be accessed at the link below. The waterSHED User Guide provides instructions about how to download and run the code, as well as, how to interact with the user interface and related features. 
-[Link Here]
+Please read the waterSHED User Guide before using the code, which can be accessed in the Documentation folder. The waterSHED User Guide provides instructions about how to download and run the code, as well as, how to interact with the user interface and related features. 
 
-The review of literature that informed the methodology is presented in Dr. Sasthav's doctoral dissertation entitled "Environmental Design and Optimization of Modular Hydropower Plants," which can be accessed at the following link. The dissertation also has case studies that provide example applications of the model.
-[Link Here]
+The review of literature that informed the methodology is presented in Dr. Sasthav's doctoral dissertation entitled "Environmental Design and Optimization of Modular Hydropower Plants," which can be accessed in the Documentation folder. The dissertation also has case studies that provide example applications of the model.
 
 Steps for using the waterSHED model:
 1. Download this repository onto your machine. Make sure the folder names do not overlap with existing folders.
